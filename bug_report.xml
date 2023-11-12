@@ -1,0 +1,7 @@
+<module>Bonds</module>
+<DB>BDEPO</DB>
+<Build>sp23Bonds2023_11_03</Build>
+<Summary>Saving the addendum to the commission agreement without a number in Bonds</summary>
+<ExpectedResult>Сформировано информационное сообщение "Не заполнен № доп соглашения"</ExpectedResult>
+<ActualResult>доп соглашение сохранено без номера</ActualResult>
+<Requirment>ТТ-п.3</Requirment>
